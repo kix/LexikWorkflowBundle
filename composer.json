@@ -28,7 +28,8 @@
         "symfony/symfony": ">=2.0,<2.4-dev"
     },
     "require-dev": {
-        "doctrine/orm": ">=2.2,<2.5-dev"
+        "doctrine/orm": ">=2.2,<2.5-dev",
+        "satooshi/php-coveralls": "v0.6.1"
     },
     "autoload": {
         "psr-0": { "Lexik\\Bundle\\WorkflowBundle": "" }
